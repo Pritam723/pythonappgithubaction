@@ -9,3 +9,8 @@ def test_sub():
     assert sub(5,3) == 2
     assert sub(1,1) == 0
     assert sub(2,3) == -1
+
+def test_mult():
+    assert sub(5,3) == 15
+    assert sub(1,1) == 1
+    assert sub(2,3) == 6
